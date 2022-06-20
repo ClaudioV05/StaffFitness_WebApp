@@ -4,6 +4,8 @@
 
 ## Project status: Finished
 
+<h3 align="left"><a href="https://calm-oasis-71907.herokuapp.com/">🔗 Staff FitNess homepage</a></h3>
+
 ## 🛠 Development tools
 
 The following tools were used in building the project:

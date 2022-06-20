@@ -6,6 +6,6 @@
 - [X] Database: PostgreSQL
 - [X] API: Adonis JS
 
-![Display Login](https://github.com/ClaudioV05/StaffFitness_Mobile/blob/dev/Doc/Assets/Dislpay_%20login.png)
+![Display Home](https://github.com/ClaudioV05/StaffFitness_WebApp/blob/dev/src/Doc/Assets/ImgHome.png)
 
-![Plan Choice](https://github.com/ClaudioV05/StaffFitness_Mobile/blob/main/Doc/Assets/Display_%20plan%20choice.png)
+![Plan Registry](https://github.com/ClaudioV05/StaffFitness_WebApp/blob/dev/src/Doc/Assets/ImgRegistry.png)

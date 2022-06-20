@@ -1,10 +1,16 @@
 # StaffFitness - WebApp 
 
-### This Web app is part of the *StaffFitness* project
+## This Web app is part of the *StaffFitness* project
 
-- [X] Programming language: React JS
-- [X] Database: PostgreSQL
-- [X] API: Adonis JS
+## Project status: Finished
+
+## 🛠 Development tools
+
+The following tools were used in building the project:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [PostGreSQL](https://www.postgresql.org/)
 
 ![Display Home](https://github.com/ClaudioV05/StaffFitness_WebApp/blob/dev/src/Doc/Assets/ImgHome.png)
 
